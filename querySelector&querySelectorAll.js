@@ -1,4 +1,4 @@
-// Write the code as shown in the video below:
+
 const mainheading = document.querySelector('#main-heading');
 mainheading.style.textAlign = 'right';
 
